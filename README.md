@@ -8,11 +8,11 @@
           <td>오성</td>
         </tr>
         <tr>
-          <td>이름2</td>
-          <td>이름2</td>
-          <td>이름2</td>
-          <td>이름2</td>
-          <td>이름2</td>
+          <td>수빈</td>
+          <td>수빈</td>
+          <td>수빈</td>
+          <td>수빈</td>
+          <td>수빈</td>
         </tr>
       </tbody>
 </table>
