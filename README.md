@@ -1,18 +1,18 @@
 <table>
       <tbody>
         <tr>
-          <td>솔미</td>
-          <td>솔미</td>
-          <td>솔미</td>
-          <td>솔미</td>
-          <td>솔미</td>
+          <td>오성</td>
+          <td>오성</td>
+          <td>오성</td>
+          <td>오성</td>
+          <td>오성</td>
         </tr>
         <tr>
-          <td>솔미</td>
-          <td>솔미</td>
-          <td>이름</td>
-          <td>이름</td>
-          <td>이름</td>
+          <td>이름2</td>
+          <td>이름2</td>
+          <td>이름2</td>
+          <td>이름2</td>
+          <td>이름2</td>
         </tr>
       </tbody>
 </table>
