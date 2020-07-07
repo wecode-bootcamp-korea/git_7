@@ -4,15 +4,15 @@
           <td>성원</td>
           <td>성원</td>
           <td>성원</td>
-          <td>성원</td>
-          <td>성원</td>
+          <td>수영</td>
+          <td>수영</td>
         </tr>
         <tr>
-          <td>수빈</td>
-          <td>수빈</td>
-          <td>수빈</td>
-          <td>수빈</td>
-          <td>수빈</td>
+          <td>정수영</td>
+          <td>수영</td>
+          <td>수영</td>
+          <td>수영</td>
+          <td>정수영</td>
         </tr>
       </tbody>
 </table>
