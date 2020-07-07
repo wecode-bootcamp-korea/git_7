@@ -1,18 +1,18 @@
 <table>
       <tbody>
         <tr>
-          <td>오성</td>
-          <td>오성</td>
-          <td>오성</td>
-          <td>오성</td>
-          <td>오성</td>
+          <td>수영</td>
+          <td>수영</td>
+          <td>수영</td>
+          <td>수영</td>
+          <td>수영</td>
         </tr>
         <tr>
-          <td>수빈</td>
-          <td>수빈</td>
-          <td>수빈</td>
-          <td>수빈</td>
-          <td>수빈</td>
+          <td>정수영</td>
+          <td>수영</td>
+          <td>수영</td>
+          <td>수영</td>
+          <td>정수영</td>
         </tr>
       </tbody>
 </table>
