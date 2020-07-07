@@ -1,9 +1,9 @@
 <table>
       <tbody>
         <tr>
-          <td>수영</td>
-          <td>수영</td>
-          <td>수영</td>
+          <td>성원</td>
+          <td>성원</td>
+          <td>성원</td>
           <td>수영</td>
           <td>수영</td>
         </tr>
