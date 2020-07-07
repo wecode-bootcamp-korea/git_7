@@ -1,11 +1,11 @@
 <table>
       <tbody>
         <tr>
-          <td>오성</td>
-          <td>오성</td>
-          <td>오성</td>
-          <td>오성</td>
-          <td>오성</td>
+          <td>성원</td>
+          <td>성원</td>
+          <td>성원</td>
+          <td>성원</td>
+          <td>성원</td>
         </tr>
         <tr>
           <td>수빈</td>
